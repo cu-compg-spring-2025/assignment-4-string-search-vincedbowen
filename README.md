@@ -25,10 +25,10 @@ optional arguments:
 ## Examles
 ```
 python src/string_search.py \
-    --text_range 100 10000 100 \
-    --pattern_size 100 \
-    --rounds 1 \
-    --out_file doc/naive_search.png
+  --text_range 100 10000 100 \
+  --pattern_size 100 \
+  --rounds 2 \
+  --out_file doc/time_mem/r3.png
 ```
-<center><img src="/doc/naive_search.png" width="600"/></center>
+<center><img src="/doc/time_mem/r3.png" width="600"/></center>
 
