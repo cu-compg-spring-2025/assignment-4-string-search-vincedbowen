@@ -19,6 +19,7 @@ optional arguments:
   --out_file OUT_FILE   File to save plot to
   --width WIDTH         Width of plot in inches (default: 8)
   --height HEIGHT       Height of plot in inches (default: 5)
+  --num_shifts NUM_SHIFTS Graph the number of shifts in the algorithms (default: False)
 ```
 
 ## Examles
